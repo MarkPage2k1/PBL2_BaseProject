@@ -1,0 +1,7 @@
+# Unselect cac file khong can thiet
+Debug
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.aps
+**.ini
